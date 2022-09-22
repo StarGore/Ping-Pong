@@ -11,9 +11,9 @@ Player1/2 still needs work so I post this just to update later (22th September 2
 
 
 var c = document.getElementById("Canvas");
-var ctx = Canvas.getContext("2d");
-var cHeight = Canvas.height;
-var cWidth = Canvas.width;
+var ctx = c.getContext("2d");
+var cHeight = c.height;
+var cWidth = c.width;
 
 function Paddle(x, y) {
 
