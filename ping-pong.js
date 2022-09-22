@@ -5,6 +5,8 @@ MAY STILL ADDITIONALLY ADD THE HTML FILES
 Description will be added some time when I feel like it
 
 Fork this if you have suggestions/improvements :)
+
+Player1/2 still needs work so I post this just to update later (22th September 2022)
 */
 
 
